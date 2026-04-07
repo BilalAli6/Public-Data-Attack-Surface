@@ -213,7 +213,7 @@ If you have questions, want to discuss OSINT defensive strategies, or are attend
 ---
 
 # ⚖️ License
-Distributed under the MIT License. See LICENSE for details.
+Distributed under the MIT License. See [LICENSE](https://github.com/BilalAli6/public-data-attack-surface/blob/main/LICENSE) for details.
 
 ---
 
